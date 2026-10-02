@@ -41,4 +41,4 @@ Para replicar este entorno en un servidor Linux/Ubuntu remoto:
    ```ini
    [Interface]
    ...
-   DNS = 10.7.0.1
+   DNS = X.X.X.X
